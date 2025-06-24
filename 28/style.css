@@ -1,5 +1,7 @@
 body{
     margin: 0;
+    background-image: url(img/images.jpg);
+    background-size: cover;
 }
 
 .sige-nav{
@@ -34,3 +36,4 @@ li + li {
     flex-grow: 1;
     text-align: center;
 }
+
